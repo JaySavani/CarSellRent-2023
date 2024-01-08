@@ -39,9 +39,9 @@ const checkout = async (amount) => {
     callback_url: `${process.env.REACT_APP_API_URL}/payment/paymentverification`,
     // callback_url: "https://eneqd3r9zrjok.x.pipedream.net/",
     prefill: {
-      name: "VATSAL VASANI",
+      name: "xyz",
       email: "vatsal@example.com",
-      contact: "9016732128",
+      contact: "1245214251",
     },
     notes: {
       address: "Razorpay Corporate Office",
